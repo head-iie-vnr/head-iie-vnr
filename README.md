@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently building SuperApp for VNRVJIET.
+- 💬 Ask me about Campus Automations, Startups & Purpose of Life.
+- 📫 How to reach me: head.iie@vnrvjiet.in, Desk: P119, VNRVJIET.
+
 <!--
 **head-iie-vnr/head-iie-vnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
