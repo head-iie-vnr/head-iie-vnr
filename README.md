@@ -1,9 +1,9 @@
 ## Hi there 👋
-- 😄 About me: I am Krishna Prasad (KP), Head of Innovation at VNRVJIET.
-- 🌱 I’m currently building SuperApp for VNRVJIET.
+- 😄 **About me**: I am Krishna Prasad (KP), Head of Innovation at VNRVJIET.
+- 🌱 I’m currently building SuperApp for VNRVJIET along with VNRVJIET students.
 - 💬 Ask me about Campus Automations, Startups & Purpose of Life.
-- 📫 How to reach me: head.iie@vnrvjiet.in, Desk: P119, VNRVJIET.
-- ⚡ Fun fact: I am VNRVJIET Alumni, you may reffer me KP. 
+- 📫 **How to reach me**: head.iie@vnrvjiet.in, Desk: P119, VNRVJIET.
+- ⚡ **Fun fact**: I am VNRVJIET Alumni, you may reffer me KP. 
 
 <!--
 **head-iie-vnr/head-iie-vnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
